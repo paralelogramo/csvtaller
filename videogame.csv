@@ -1,0 +1,38 @@
+idVideogame,nameVideogame,year,generation,isMain,isDerivate,isUpperVersion,isDLC,isRemake,isPremake,console
+1,Red,1996,1,1,0,0,0,0,0,Game Boy
+3,Blue,1996,1,0,1,0,0,0,0,Game Boy
+4,Yellow,1998,1,0,0,1,0,0,0,Game Boy
+5,Gold,1999,2,1,0,0,0,0,0,Game Boy Color
+6,Silver,1999,2,1,0,0,0,0,0,Game Boy Color
+7,Crystal,2000,2,0,0,1,0,0,0,Game Boy Color
+8,Ruby,2002,3,1,0,0,0,0,0,Game Boy Advance
+9,Sapphire,2002,3,1,0,0,0,0,0,Game Boy Advance
+10,Emerald,2004,3,0,0,1,0,0,0,Game Boy Advance
+11,Fire Red,2004,3,0,0,0,0,1,0,Game Boy Advance
+12,Leaf Green,2004,3,0,0,0,0,1,0,Game Boy Advance
+13,Diamond,2006,4,1,0,0,0,0,0,Nintendo DS
+14,Pearl,2006,4,1,0,0,0,0,0,Nintendo DS
+15,Platinum,2008,4,0,0,1,0,0,0,Nintendo DS
+16,Heart Gold,2009,4,0,0,0,0,1,0,Nintendo DS
+17,Soul Silver,2009,4,0,0,0,0,1,0,Nintendo DS
+18,Black,2010,5,1,0,0,0,0,0,Nintendo 3DS
+19,White,2010,5,1,0,0,0,0,0,Nintendo 3DS
+20,Black 2,2012,5,0,1,0,0,0,0,Nintendo 3DS
+21,White 2,2012,5,0,1,0,0,0,0,Nintendo 3DS
+22,X,2013,6,1,0,0,0,0,0,Nintendo 3DS
+23,Y,2013,6,1,0,0,0,0,0,Nintendo 3DS
+24,Omega Ruby,2014,6,0,0,0,0,1,0,Nintendo 3DS
+25,Alpha Sapphire,2014,6,0,0,0,0,1,0,Nintendo 3DS
+26,Sun,2016,7,1,0,0,0,0,0,Nintendo 3DS
+27,Moon,2016,7,1,0,0,0,0,0,Nintendo 3DS
+28,Ultra sun,2017,7,0,0,1,0,0,0,Nintendo 3DS
+29,Ultra Moon,2017,7,0,0,1,0,0,0,Nintendo 3DS
+"30,""Lets Go, Pikachu!"",2018,7,0,0,0,0,1,0,Nintendo Switch"
+"31,""Lets Go, Eevee!"",2018,7,0,0,0,0,1,0,Nintendo Switch"
+32,Sword,2019,8,1,0,0,0,0,0,Nintendo Switch
+33,Shield,2019,8,1,0,0,0,0,0,Nintendo Switch
+34,The Isle of Armor,2020,8,0,0,0,1,0,0,Nintendo Switch
+35,The Crown Tundra,2020,8,0,0,0,1,0,0,Nintendo Switch
+36,Brilliant Diamond,2021,8,0,0,0,0,1,0,Nintendo Switch
+37,Shining Pearl,2021,8,0,0,0,0,1,0,Nintendo Switch
+38,Legends: Arceus,2022,8,0,0,0,0,0,1,Nintendo Switch
